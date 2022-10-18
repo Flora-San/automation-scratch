@@ -50,4 +50,3 @@ import org.openqa.selenium.chrome.ChromeDriver;
 ```
 
 click run
-
