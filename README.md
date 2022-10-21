@@ -13,6 +13,7 @@ you need install the following things
 
 [Java](https://www.oracle.com/java/technologies/downloads/#java11)
 
+[chromedriver](https://chromedriver.chromium.org/home)
 if your already have this configuration then go to the next step
 
 
