@@ -1,5 +1,13 @@
 # automation-scratch
 simple guide and first automation configurations 
+for this project iḿ using Java 11, and Selenium WebDriver with Intellij
+you can check if you already install Java with command line 
+
+```
+$ java -version
+```
+
+
 
 important considerations _this is a minimalist guide to automate a web browser_
 
@@ -13,9 +21,16 @@ you need install the following things
 
 [Java](https://www.oracle.com/java/technologies/downloads/#java11)
 
-[chromedriver](https://chromedriver.chromium.org/home)
-if your already have this configuration then go to the next step
+[chromedriver](https://chromedriver.chromium.org/)
 
+_if your already have this configuration then go to the next step_
+
+****
+clone the repo with this command line
+
+```
+git clone https://github.com/Flora-San/automation-scratch.git
+```
 
 **How configurate selenium in intellij IDE**
 
