@@ -1,6 +1,8 @@
 # automation-scratch
 simple guide and first automation configurations 
+
 for this project iḿ using Java 11, and Selenium WebDriver with Intellij
+
 you can check if you already install Java with command line 
 
 ```
