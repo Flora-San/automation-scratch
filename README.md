@@ -66,5 +66,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 ```
+once you have all this things, run the project 
 
-click run
+click run 
